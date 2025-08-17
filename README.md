@@ -51,3 +51,4 @@ The performance (accuracy) of the three architectures were compared and BiLSTM h
  Built BiLSTM sentiment model, with 84.8% accuracy 0.78 F1 for multi-class sentiment classification.
  Built NLP pipeline with tokenization, lemmatization, and GloVe embeddings, cutting analysis time 76%.
  Analyzed 400K+ customer reviews, boosting campaign ROI by 22% and cutting churn by 15%.
+
